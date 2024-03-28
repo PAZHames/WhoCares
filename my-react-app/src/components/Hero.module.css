@@ -1,0 +1,36 @@
+.home-logo {
+  height: 32vh;
+  margin-top: 10vh;
+}
+
+.home-buttons-container {
+  margin-top: 16vh;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.home-button {
+  all: unset;
+  border: 4px solid rgba(8, 106, 4, 1);
+  width: 16rem;
+  margin: 0 auto;
+  padding: 1rem 0;
+  border-radius: 30px;
+  font-weight: bold;
+}
+
+.home-action-button {
+  all: unset;
+  background-color: rgba(8, 106, 4, 1);
+  width: 16rem;
+  margin: 0 auto;
+  padding: 1rem 0;
+  border-radius: 30px;
+  font-weight: bold;
+  color: white;
+}
+
+
+/* #8ABE52 */
+/* 138, 190, 82 */
