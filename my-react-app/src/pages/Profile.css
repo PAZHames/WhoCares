@@ -6,16 +6,20 @@
     font-size: 60px;
     padding-bottom: 5%;
     padding-top: 10%;
+    font-weight: bold;
 }
 
 .profilebio{
     display: grid;
     grid-template-columns: 1fr 1fr;
+    text-align: left;
+    padding: auto;
 
 }
 
 .profile-pic img {
     border-radius: 60%;
+    width: 80%;
 }
 
 .container {
@@ -24,6 +28,11 @@
 
 .about-me {
     padding-top: 5%;
+    text-align: left;
+}
+
+.response {
+    margin-bottom: 5%;
 }
 
 
