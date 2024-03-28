@@ -1,22 +1,26 @@
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 nav ul {
     list-style: none;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     padding-left: 0;
-    /* margin: 20px; */
     position: fixed;
     bottom: 0;
     width: 100%;
-    background-color: #B3E5A3;
+    background-color: rgba(138, 190, 82, 0.5);
     padding: 20px 0;
     margin-bottom: 0;
 }
 
 .nav-link {
-    background-color: white;    
-    /* width: 30px;
-    height: 30px; */
+    background-color: white;
     padding: 11px 15px;
     border-radius: 50%;
 }
+
+/* 8, 106, 46 */
