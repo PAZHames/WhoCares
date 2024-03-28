@@ -1,0 +1,78 @@
+export const GroupsInfo = [
+  {
+    id: "g1",
+    name: "Wandsworth Young Carers",
+    borough: "Wandsworth",
+    members: [
+      "Emily Johnson",
+      "Ethan Smith",
+      "Sophia Williams",
+      "Noah Brown",
+      "Olivia Jones",
+      "Liam Davis",
+      "Emma Martinez",
+      "Mason Taylor",
+      "Ava Anderson",
+      "Logan Garcia"
+    ],
+  },
+  {
+    id: "g2",
+    name: "Lambeth Carers",
+    borough: "Lambeth",
+    members: [
+      "Isabella Miller",
+      "Lucas Rodriguez",
+      "Mia Martinez",
+      "Oliver Wilson"
+    ],
+  },  {
+    id: "g3",
+    name: "Caring Together in Hammersmith",
+    borough: "Hammersmith",
+    members: [
+      "Abigail Lewis",
+      "Alexander Torres",
+      "Elizabeth Martin",
+      "Michael Hill",
+      "Evelyn Adams",
+      "Daniel Baker",
+      "Madison Nelson",
+      "William Hall",
+      "Sofia Ramirez",
+      "Samuel Cook",
+      "Avery Cooper",
+      "Matthew Flores",
+      "Victoria Perry",
+      "Henry Brooks",
+      "Scarlett Bell",
+      "Jackson Powell",
+      "Grace Evans",
+      "David Reed",
+      "Chloe Turner",
+      "Gabriel Ward"
+    ],
+  },
+  {
+    id: "g4",
+    name: "East London Care Support Group",
+    borough: "Hackney",
+    members: [
+      "Lily Phillips",
+      "Carter Ross",
+      "Aria Sanchez",
+      "Joseph Price",
+      "Zoey Watson",
+      "Andrew Hughes",
+      "Penelope Sanders",
+      "Joshua Stewart",
+      "Riley Murphy",
+      "Dylan Perry",
+      "Nora Wood",
+      "Jack Jenkins",
+      "Addison Long",
+      "Christopher Diaz",
+      "Layla Howard",
+    ],
+  }
+]

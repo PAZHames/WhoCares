@@ -11,8 +11,8 @@ nav ul {
     padding-left: 0;
     position: fixed;
     bottom: 0;
+    background-color: rgb(190, 219, 164);
     width: 96vw;
-    background-color: rgba(138, 190, 82, 0.5);
     padding: 20px 0;
     margin-bottom: 2vh;
     margin-left: 2vw;
