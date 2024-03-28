@@ -1,0 +1,8 @@
+.groups-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-bottom: 16vh;
+  /* height: 70vh;
+  overflow: scroll; */
+}

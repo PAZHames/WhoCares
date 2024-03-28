@@ -1,9 +1,13 @@
+import GroupsContainer from "../components/GroupsContainer";
 import Nav from "../components/Header";
+import classes from "./Groups.module.css";
+
 export default function Groups() {
   return (
     <>
-    <div>Groups</div>
-    <Nav/>
+      <h2>Groups</h2>
+      <GroupsContainer />
+      <Nav/>
     </>
   )
 }
