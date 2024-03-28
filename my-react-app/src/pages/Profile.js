@@ -11,7 +11,7 @@ function Profile() {
         <div className='profilebio'>
 
           <div className="profile-pic">
-            <img src='profilepic.jpg' width ='60%' />
+            <img src='profilepic.jpg'  />
           </div>
           <div className="bio">
           <div className="prompt">Name</div>
