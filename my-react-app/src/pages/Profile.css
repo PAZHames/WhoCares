@@ -3,7 +3,9 @@
 }
 
 .name {
-    font-size: 100px;
+    font-size: 60px;
+    padding-bottom: 5%;
+    padding-top: 10%;
 }
 
 .profilebio{
@@ -11,3 +13,17 @@
     grid-template-columns: 1fr 1fr;
 
 }
+
+.profile-pic img {
+    border-radius: 60%;
+}
+
+.container {
+    padding: 5%;
+}
+
+.about-me {
+    padding-top: 5%;
+}
+
+
