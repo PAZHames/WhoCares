@@ -1,4 +1,6 @@
+
 import './Profile.css';
+import Nav from "../components/Header";
 
 function Profile() {
     return (
@@ -28,7 +30,7 @@ function Profile() {
 
 
 
-
+      <Nav/>
       </>
     );
   }
