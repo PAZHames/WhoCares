@@ -1,0 +1,13 @@
+.prompt {
+    font-weight: bold;
+}
+
+.name {
+    font-size: 100px;
+}
+
+.profilebio{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
