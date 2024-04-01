@@ -14,6 +14,8 @@ Logo credit: Seonjoo and Kanika ✨
 - Problems Faced
 - Future Plans
 
+***This project started as part of and came first place 🥇 in the excellent SheCanCode International Women's Day Powerhack***
+
 ## Introduction
 
 I (Phoebe) have been a carer for my Grandma for the last two and a half years. She raised me, so it's almost a direct transaction 😅. It has been one of the most rewarding experiences of my life, but it is also very, very hard. Caring can be a very isolating experience, especially as a younger carer, and it can often leave you wanting for a sense of community and understanding. 
