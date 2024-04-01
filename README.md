@@ -2,6 +2,8 @@
 
 ![green-logo-banner](https://github.com/PAZHames/WhoCares/assets/77605055/eb51be6c-2faa-446d-8443-c797e533f528)
 
+Logo credit: Seonjoo and Kanika ✨
+
 ## Table of Contents
 
 - Introduction
