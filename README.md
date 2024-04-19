@@ -6,13 +6,13 @@ Logo credit: Seonjoo and Kanika ✨
 
 ## Table of Contents
 
-- Introduction
-- Getting Started
-- User Journey
-- Tech Stack
-- Key Features
-- Problems Faced
-- Future Plans
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+- [User Journey](#user-journey)
+- [Tech Stack](#tech-stack)
+- [Key Features](#key-features)
+- [Problems Faced](#problems-faced)
+- [Future Plans](#future-plans)
 
 ***This project started as part of and came first place 🥇 in the excellent SheCanCode International Women's Day Powerhack***
 
@@ -92,4 +92,4 @@ Before proceeding with the installation, make sure you have the following instal
 
 ## Problems Faced
 
-## Future plans
+## Future Plans
