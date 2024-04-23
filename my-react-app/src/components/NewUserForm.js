@@ -12,6 +12,13 @@ export default function NewUserForm() {
 
 const handleSubmit = (e) => {
     e.preventDefault()
+    setIsLoading(true)
+
+    const user = {
+        firstName, surname, email
+    }
+
+    
     // handle submit for form 
 }
 
