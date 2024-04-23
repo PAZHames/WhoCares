@@ -1,0 +1,10 @@
+.btn-primary {
+    all: unset;
+    background-color: rgba(8, 106, 4, 1);
+    width: 16rem;
+    margin: 0 auto;
+    padding: 1rem 0;
+    border-radius: 30px;
+    font-weight: bold;
+    color: white;
+  }
