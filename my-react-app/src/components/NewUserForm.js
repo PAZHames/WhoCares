@@ -17,34 +17,38 @@ const handleSubmit = (e) => {
 
   return (
     <>
-    <form onSubmit={handleSubmit}>
-        <label>
+    <form onSubmit={handleSubmit} className={classes["form"]}>
+        <label className={classes["form-label"]}>
             <span>First name:</span>
                 <input 
                 required
                 type="text" 
                 onChange={(e) => setFirstName(e.target.value)}
                 value={firstName}
+                className={classes["form-input"]}
                 />
         </label>
-        <label>
+        <label className={classes["form-label"]}>
             <span>Surname:</span>
                 <input 
                 required
                 type="text" 
                 onChange={(e) => setSurname(e.target.value)}
                 value={surname}
+                className={classes["form-input"]}
                 />
         </label>
-        <label>
+        <label className={classes["form-label"]}>
             <span>Email:</span>
                 <input 
                 required
                 type="email" 
                 onChange={(e) => setEmail(e.target.value)}
                 value={email}
+                className={classes["form-input"]}
                 />
         </label>
+
         <button className={classes["btn-primary"]}
         disabled={isLoading}>
             {isLoading && <span>Signing up...</span>}

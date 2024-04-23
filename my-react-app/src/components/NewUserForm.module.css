@@ -8,3 +8,18 @@
     font-weight: bold;
     color: white;
   }
+
+  .form {
+    padding: 5%;
+}
+
+  .form-input, .form-label {
+    display: block;
+  }
+
+  .form-input {
+    width: 100%;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+  }
