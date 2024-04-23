@@ -10,7 +10,7 @@ export default function Hero() {
       <div className={classes["home-buttons-container"]}>
         <Link to="/groups"><button className={classes["home-button"]}>Join a group</button></Link>
         <Link to="/events"><button className={classes["home-button"]}>Join an event</button></Link>
-        <Link to="/"><button className={classes["home-action-button"]}>Sign up now!</button></Link>
+        <Link to="/signUp"><button className={classes["home-action-button"]}>Sign up now!</button></Link>
       </div>
     </div>
   );
