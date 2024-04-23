@@ -44,7 +44,7 @@ Before proceeding with the installation, make sure you have the following instal
 2. **Navigate to the project directory**
 
    ```
-   cd WhoCares
+   cd WhoCares/my-react-app
    ```
 
 3. **Install dependencies**
