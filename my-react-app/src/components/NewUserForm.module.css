@@ -1,0 +1,25 @@
+.btn-primary {
+    all: unset;
+    background-color: rgba(8, 106, 4, 1);
+    width: 16rem;
+    margin: 0 auto;
+    padding: 1rem 0;
+    border-radius: 30px;
+    font-weight: bold;
+    color: white;
+  }
+
+  .form {
+    padding: 5%;
+}
+
+  .form-input, .form-label {
+    display: block;
+  }
+
+  .form-input {
+    width: 100%;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+  }
